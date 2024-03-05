@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"subscriptionbot/db"
 	"subscriptionbot/utilities"
-	"subscriptionbot/weather"
+	weatherAPI "subscriptionbot/weather"
 	"time"
 	"unicode"
 
-	api "git.foxminded.ua/foxstudent106270/telegramapi.git"
+	api "github.com/c1kzy/Telegram-API"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

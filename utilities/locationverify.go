@@ -1,6 +1,6 @@
 package utilities
 
-import api "git.foxminded.ua/foxstudent106270/telegramapi.git"
+import api "github.com/c1kzy/Telegram-API"
 
 // IsLocationEmpty checks if location values received
 func IsLocationEmpty(loc api.Location) bool {

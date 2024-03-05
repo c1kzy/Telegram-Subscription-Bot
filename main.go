@@ -10,7 +10,7 @@ import (
 	weatherAPI "subscriptionbot/weather"
 	"time"
 
-	tgapi "git.foxminded.ua/foxstudent106270/telegramapi.git"
+	tgapi "github.com/c1kzy/Telegram-API"
 	"github.com/caarlos0/env/v10"
 	"github.com/joho/godotenv"
 	"github.com/phuslu/log"

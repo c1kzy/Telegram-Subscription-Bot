@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"strconv"
 
-	api "git.foxminded.ua/foxstudent106270/telegramapi.git"
+	api "github.com/c1kzy/Telegram-API"
 )
 
 // KeyboardButton struct for a telegram button
