@@ -10,7 +10,7 @@ This Telegram bot provides users with daily weather forecast notifications at a 
 ## Installation
 Clone this repository:
 ```
-git clone https://git.foxminded.ua/foxstudent106270/task-2.5-subscription-bot.git
+git clone https://github.com/c1kzy/Telegram-Subscription-Bot.git
 cd task-2.5-subscription-bot
 
 ```
